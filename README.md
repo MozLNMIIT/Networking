@@ -29,5 +29,5 @@ git push -u origin <your_branch_name>
 ```
 8. Go to the GitHub repository and submit a Pull Request.
 
-[LINKS]
-https://www.w3schools.com/php/default.asp
+# LINKS
+* https://www.w3schools.com/php/default.asp
